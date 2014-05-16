@@ -1,0 +1,3 @@
+include README* LICENSE* *requirements*.txt
+recursive-include tripme *
+global-exclude *.py[co] *~
